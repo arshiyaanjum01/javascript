@@ -48,6 +48,7 @@ console.log(str.split(' ,'));
 
 const dfp = str.split(',');
 console.log(dfp)
+console.log(dfp[4])
 
 //index of
 const st ='this is a string'
@@ -59,5 +60,5 @@ console.log(str.indexOf('z'));
 console.log('my number is '+ (2+3)+' this is an example');
 //string literals
 const Myno=5
-console.log('my number is ${Myno}, this is an example');
+console.log('my number is ${Myno}, this is an example')
 
